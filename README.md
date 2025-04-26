@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Alex
 
-DevOps engineer based in Tel Aviv. I specialize in automating infrastructure, building CI/CD pipelines, and deploying scalable systems. Currently enhancing my Kubernetes skills.
+DevOps engineer based in Israel. I specialize in automating infrastructure, building CI/CD pipelines, and deploying scalable systems. Currently enhancing my Kubernetes skills.
 
 ---
 
