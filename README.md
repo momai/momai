@@ -8,4 +8,4 @@ DevOps engineer based in Israel. I specialize in automating infrastructure, buil
 
 - **Website**: [momai.dev](https://momai.dev)
 - **Telegram**: [@momai](https://t.me/momai)
-- **LinkedIn**: [linkedin.com/in/momai](https://linkedin.com/in/momai)
+- **E-mail**: admin@momai.dev
